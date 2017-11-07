@@ -5,6 +5,6 @@ Build a Single Screen App
 ### Project Overview
 
 Design and implement a single screen app that displays information about a small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
-![alt text](https://drive.google.com/open?id=1e6VbI6VD9RWDXUGOhVaPPloSEOwYP1a1)
+![](Screenshot_2017-11-07-23-11-26-038_justynachrustna.ukiuki.png)
 
 

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Uki Uki</string>
+    <string name="adres">ul. Krucza 23/31, 00-525 Warszawa</string>
+    <string name="phone">22 428 26 96</string>
+    <string name="mail">udon@ukiuki.pl</string>
+    <string name="site">http://www.ukiuki.pl/</string>
+    <string name="opening_hours">Pn-Sb 12:00-21:00 \nNd12:00 - 20:00</string>
+    <string name="name">UKI UKI Restauracja Japońska</string>
+</resources>

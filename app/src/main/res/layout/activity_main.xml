@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="justynachrustna.ukiuki.MainActivity">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:scaleType="centerCrop"
+    android:src="@drawable/uki_uki_ramen"
+    />
+
+    <LinearLayout
+        style="@style/info_linear_layout_style"
+        >
+        <ImageView
+            style="@style/info_image_view_style"
+            android:src="@drawable/ic_place_black_30dp"/>
+        <TextView
+            style="@style/info_text_style"
+            android:text="@string/adres"
+
+            />
+
+    </LinearLayout>
+    <LinearLayout style="@style/info_linear_layout_style">
+        <ImageView
+            android:src="@drawable/ic_call_black_30dp"
+            style="@style/info_image_view_style" />
+        <TextView
+            android:text="@string/phone"
+            style="@style/info_text_style" />
+
+    </LinearLayout>
+    <LinearLayout
+        style="@style/info_linear_layout_style"
+        >
+        <ImageView
+            style="@style/info_image_view_style"
+            android:src="@drawable/ic_mail_outline_black_24dp"/>
+        <TextView
+            style="@style/info_text_style"
+            android:text="@string/mail"
+/>
+
+    </LinearLayout>
+    <LinearLayout
+        style="@style/info_linear_layout_style"
+        >
+        <ImageView
+            style="@style/info_image_view_style"
+            android:src="@drawable/ic_public_black_30dp"/>
+        <TextView
+            style="@style/info_text_style"
+            android:text="@string/site"
+/>
+
+    </LinearLayout>
+    <LinearLayout
+        style="@style/info_linear_layout_style">
+        <ImageView
+            style="@style/info_image_view_style"
+            android:src="@drawable/ic_store_black_30dp"/>
+        <TextView
+            style="@style/info_text_style"
+            android:text="@string/opening_hours"
+/>
+
+    </LinearLayout>
+</LinearLayout>
